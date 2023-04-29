@@ -1,6 +1,4 @@
-# ss-and-kcptun
-Bash script to deploy shadowsocks and kcptun.
-usage:
+Usage:
 
 docker pull cellsdance/ss_kcptun
 
