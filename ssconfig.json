@@ -1,9 +1,0 @@
-{
-    "port_password":{
-          "9990":"12345678",
-          "9890":"12345678"
-          },
-    "timeout":300,
-    "method":"aes-256-gcm",
-    "fast_open": false
-}
