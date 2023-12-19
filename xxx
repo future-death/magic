@@ -10,17 +10,17 @@
       "listen_port": 8081,
       "users": [
         {
-          "name": "feng",
+          "name": "ng",
           "uuid": "be68096c-19ac-45cf-81f2-bec71c44399f",
-          "password": "12345678"
+          "password": ""
         }
       ],
       "congestion_control": "bbr",
       "tls": {
         "enabled": true,
-        "server_name": "creed.eu.org",
-        "certificate_path": "/etc/acmessl/certificates/acme-v02.api.letsencrypt.org-directory/creed.eu.org/creed.eu.org.crt",
-        "key_path": "/etc/acmessl/certificates/acme-v02.api.letsencrypt.org-directory/creed.eu.org/creed.eu.org.key",
+        "server_name": "",
+        "certificate_path": "/etc/acmessl/certificacrt",
+        "key_path": "/etc/acmessl/certificates/acme-v02.api.le.key",
         "ech": {
           "enabled": true,
           "pq_signature_schemes_enabled": true,
