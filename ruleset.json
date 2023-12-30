@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+          "razord.top",
+          "ampproject.org",
+         "sagernet.org",
+          "cloudflare.com",
+          "whatismyipaddress.com",
+          "t66y.com",
+          "91porn.com",
+          "pornhub.com",
+          "zmk.pw",
+          "srtku.com",
+          "pixiv.com",
+          "pleak.net",
+          "browser-intake-datadoghq.com",
+          "ntp.org",
+          "statsig.com",
+          "jsdelivr.net"
+      ],
+      "domain_keyword": [
+         "xvideos"
+     ]
+    }
+  ]
+}
